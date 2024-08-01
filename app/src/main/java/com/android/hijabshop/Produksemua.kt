@@ -1,6 +1,5 @@
-package com.android.arif
+package com.android.hijabshop
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.GridView
 import androidx.activity.ComponentActivity

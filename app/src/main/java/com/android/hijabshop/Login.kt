@@ -1,4 +1,4 @@
-package com.android.arif
+package com.android.hijabshop
 
 import android.content.Intent
 import android.os.Bundle

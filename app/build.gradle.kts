@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.android.arif"
+    namespace = "com.android.hijabshop"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.android.arif"
+        applicationId = "com.android.hijabshop"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

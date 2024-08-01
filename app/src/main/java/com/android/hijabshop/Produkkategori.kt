@@ -1,11 +1,11 @@
-package com.android.arif
+package com.android.hijabshop
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 
-class Akun : ComponentActivity() {
+class Produkkategori : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.akun)
+        setContentView(R.layout.produkkategori)
     }
 }

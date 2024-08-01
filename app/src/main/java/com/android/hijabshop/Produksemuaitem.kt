@@ -1,4 +1,4 @@
-package com.android.arif
+package com.android.hijabshop
 
 import android.view.LayoutInflater
 import android.view.View
